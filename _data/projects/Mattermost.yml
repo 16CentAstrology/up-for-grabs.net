@@ -9,7 +9,8 @@ tags:
 - react-native
 upforgrabs:
   name: Up For Grabs
-  link: https://github.com/mattermost/mattermost-server/labels/Up%20For%20Grabs
+  link: https://github.com/mattermost/mattermost/labels/Up%20For%20Grabs
 stats:
-  issue-count: 139
-  last-updated: '2022-11-19T06:56:48Z'
+  issue-count: 135
+  last-updated: '2025-02-08T11:23:24Z'
+  fork-count: 7554

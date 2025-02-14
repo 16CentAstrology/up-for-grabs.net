@@ -19,5 +19,6 @@ upforgrabs:
   name: easy_to_fix
   link: https://github.com/Cloud-CV/EvalAI/labels/easy_to_fix
 stats:
-  issue-count: 21
-  last-updated: '2022-10-02T17:41:48Z'
+  issue-count: 39
+  last-updated: '2025-02-13T13:32:28Z'
+  fork-count: 810

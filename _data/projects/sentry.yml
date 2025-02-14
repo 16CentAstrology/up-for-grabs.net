@@ -9,8 +9,9 @@ tags:
 - error-logging
 - performance-monitoring
 upforgrabs:
-  name: up-for-grabs
-  link: https://github.com/getsentry/sentry-dotnet/labels/up-for-grabs
+  name: Good First Issue
+  link: https://github.com/getsentry/sentry-dotnet/labels/Good%20First%20Issue
 stats:
-  issue-count: 4
-  last-updated: '2022-11-15T20:04:07Z'
+  issue-count: 13
+  last-updated: '2025-01-29T20:47:19Z'
+  fork-count: 213
